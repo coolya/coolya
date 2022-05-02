@@ -22,6 +22,8 @@ I'm Kolja from Europe and I am doing software for living. I'm mainly interested 
   - 📕 [blog](https://blog.logv.ws)
   - 💬 [MPS Slack](http://slack-mps.jetbrains.com/)
   - ✉️ kolja@hey.com
+  - ℹ️ he/him
+  - <a rel="me" href="https://mastodon.technology/@dumdidum">Mastodon</a>
 
 
 ### ⚡ Fun facts
